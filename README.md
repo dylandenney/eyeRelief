@@ -1,6 +1,6 @@
 # eyeRelief
 This app will remind you to look away from the screen every 10 minutes for 20 seconds.
 
-To run it install python 
+prerequisite: Python
 
-python.exe .\eyeRelief.py
+To Run it: python.exe .\eyeRelief.py
